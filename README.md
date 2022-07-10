@@ -4,4 +4,4 @@
 
 DATE: 14/12/2020 
 
-[![Watch the video](img)](https://youtu.be/pb0O2GFhWE4)
+Video demo: https://www.youtube.com/watch?v=pb0O2GFhWE4
